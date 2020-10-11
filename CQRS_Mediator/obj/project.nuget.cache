@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zv4RHX73ewMHrVArsbTrCCfxQNmC950VZyBQBMMoLyDB7A7LOdB7oyymOQmeAPxtoQEOyS1R7qdTo4u5fMVGWQ==",
+  "success": true,
+  "projectFilePath": "E:\\netcore\\CQRS_Mediator\\CQRS_Mediator\\CQRS_Mediator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Trung\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Trung\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Trung\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
